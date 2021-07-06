@@ -32,7 +32,6 @@ Here, as in other projects, the goal was not good practices or styling, this pro
 </ul>
 
 <br>
-<br>
 <hr>
 
 <p align='center'>

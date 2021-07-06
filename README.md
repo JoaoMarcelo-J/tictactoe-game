@@ -30,3 +30,6 @@ Here, as in other projects, the goal was not good practices or styling, this pro
 <li><a href='https://github.com/JoaoMarcelo-J/memory-game'>Memory Game</a></li>
 <li><a href='https://github.com/JoaoMarcelo-J/js-pomodoro'>Pomodoro</a></li>
 </ul>
+
+<img src='./img/img-1.png' align='left'>
+<img src='./img/img-2.png' align='right'>

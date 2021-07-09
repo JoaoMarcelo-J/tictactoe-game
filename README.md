@@ -6,7 +6,7 @@
 
 <br>
 
-<p>With this simple game (Tic Tac Toe) I finish my repositories based on programming logic training (3/3)
+<p>With this simple game (Tic Tac Toe) i finish my repositories based on programming logic training (3/3)
 
 Here, as in other projects, the goal was not good practices or styling, this project was just to practice programming logic.</p>
 
